@@ -222,7 +222,9 @@
 
         <h1>Welcome to CodeIgniter <?= CodeIgniter\CodeIgniter::CI_VERSION ?></h1>
 
-        <h2>The small framework with powerful features</h2>
+        <h2>Teste</h2>
+
+        
 
     </div>
 
@@ -232,7 +234,7 @@
 
 <section>
 
-    <h1>About this page</h1>
+    <h1>Começando com PHP</h1>
 
     <p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
 
